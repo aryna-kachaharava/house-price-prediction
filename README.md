@@ -43,7 +43,7 @@ The best model achieved strong performance on the validation dataset using RMSE 
 ## Repository Structure
 
 ```text
-├── house_prices_analysis.ipynb
+├── HousePrices_AdvRegression.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
