@@ -10,7 +10,7 @@ The goal of this project is to predict house prices based on housing features su
 
 Dataset from the Kaggle House Prices competition.
 
-Source: :contentReference[oaicite:0]{index=0}
+Source: [:contentReference[oaicite:0]{index=0}](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
 ## Technologies Used
 
